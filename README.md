@@ -70,4 +70,6 @@ plt.imshow(img)
 ```
 ![download](https://user-images.githubusercontent.com/67474853/136285952-af5b606a-20f1-4102-aad8-1d1fa7dacb49.png)
 
-# 
+# Future Work
+* Combine Word Segmentation and Text Recognition Model by passing the bounding box coordinates in the predict function of CRNN-CTC text recognition Model.
+* To recognize whole paragraph at once Scan, Attend and Read: End-to-End Handwritten Paragraph Recognition.
